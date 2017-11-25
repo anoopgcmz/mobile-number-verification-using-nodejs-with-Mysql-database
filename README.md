@@ -11,8 +11,7 @@ Mysql Db is used. Check the mysqlnode.sql file. Import it into ur database.
 We are generating random numbers from the code itself and saving it in the database. No need to use any third party tools for sms authentication.
 
 # Run the project
-download this file<br>
-unzip it<br>
+download this file or clone it<br> 
 Run `npm install` and all the dependencies will be installed into the project<br>
 To run the project type `node index`, application will be live on port 3000<br>
 
