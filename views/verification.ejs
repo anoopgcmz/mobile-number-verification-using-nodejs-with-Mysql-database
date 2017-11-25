@@ -1,0 +1,16 @@
+<% include partials/header  %>
+<h1><%=title %></h1>
+<form action="/verification" method="post" class="form-control">
+    <div class="form-group">
+            <label>Phone Number</label>
+            <input type="text" class="form-control" name="VRphone" 
+            placeholder="Enter Phone Number">
+        </div>
+    <div class="form-group">
+		<label>Code</label>
+		<input type="text" class="form-control" name="VRemail" aria-describedby="emailHelp"
+		 placeholder="Enter 4 digit verification code">
+	</div>
+		  <button type="submit" class="btn btn-primary">Verify</button>
+</form>
+<% include partials/footer  %>
