@@ -6,10 +6,11 @@
 https://www.nexmo.com/ <br>
 Nexmo having 2Euro free msg option. After tht we need to upgrade for getting more functionalities.<br>
 For testing purpose add the 'Mobile Number' in this link https://dashboard.nexmo.com/test-numbers <br>
-
-
+# Database
+Mysql Db is used. Check the mysqlnode.sql file. Import it into ur database.
 We are generating random numbers from the code itself and saving it in the database. No need to use any third party tools for sms authentication.
 
+# Run the project
 download this file<br>
 unzip it<br>
 Run `npm install` and all the dependencies will be installed into the project<br>
