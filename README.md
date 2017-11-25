@@ -20,4 +20,7 @@ Then it will take you to verification form which it asks your phone number and s
 Afte giving the correct input it will akeyou to the sucess page<br>
 and in daabase `users table` the ` user_status` field will be updated to `1` which means user is updated
 
-# happyCoding
+# Package Installed
+`npm install express body-parser nexmo mysql -- save` <br>
+
+#happycoding
