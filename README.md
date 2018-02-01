@@ -15,7 +15,7 @@ download this file or clone it<br>
 Run `npm install` and all the dependencies will be installed into the project<br>
 To run the project type `node index`, application will be live on port 3000<br>
 
-Regiser the details in the firs form<br>
+Regiser the details in the first form<br>
 Then it will take you to verification form which it asks your phone number and security code(received in mobile number)<br>
 Afte giving the correct input it will redirect to the sucess page<br>
 and in daabase `users table` the ` user_status` field will be updated to `1` which means user is updated
