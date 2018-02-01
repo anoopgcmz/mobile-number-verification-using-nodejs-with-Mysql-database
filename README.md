@@ -4,7 +4,7 @@
 
 `Nexmo` is a messaging app which helps us to send msgs from web apps.<br>
 https://www.nexmo.com/ <br>
-Nexmo having 2Euro free msg option. After tht we need to upgrade for getting more functionalities.<br>
+Nexmo having 2Euro free msg option. After that we need to upgrade for getting more functionalities.<br>
 For testing purpose add the 'Mobile Number' in this link https://dashboard.nexmo.com/test-numbers <br>
 # Database
 Mysql Db is used. Check the mysqlnode.sql file. Import it into ur database.
@@ -17,7 +17,7 @@ To run the project type `node index`, application will be live on port 3000<br>
 
 Regiser the details in the firs form<br>
 Then it will take you to verification form which it asks your phone number and security code(received in mobile number)<br>
-Afte giving the correct input it will akeyou to the sucess page<br>
+Afte giving the correct input it will redirect to the sucess page<br>
 and in daabase `users table` the ` user_status` field will be updated to `1` which means user is updated
 
 # Package Installed
